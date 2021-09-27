@@ -1,9 +1,12 @@
 body {
   justify-content: center;
   align-items: center;
-  background-color: #000000;
+  background-color: #656565;
 }
 #business-card {
-  max-width: 50vw;
   height: auto;
+  left: 25%;
+  max-width: 50vw;
+  position: absolute;
+  top: 25%;
 }
